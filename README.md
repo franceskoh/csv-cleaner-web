@@ -2,6 +2,9 @@
 
 A full-stack web application that processes CSV lead lists. It removes duplicates, validates email formats, standardizes URLs, and returns a cleaned dataset ready for export.
 
+**Live Demo:** https://csv-cleaner-web.vercel.app  
+**Backend API:** https://csv-cleaner-web-zti0.onrender.com
+
 ## Features
 
 - Upload CSV files via file selector
